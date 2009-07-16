@@ -3,3 +3,5 @@ h1 { margin:0px; padding:0px; }
 a { font-weight:bold; color:#aa0000; }
 .icon { float:left; padding:0.5em; }
 .clear { clear:both; }
+pre, code { font-family:monaco; font-size:80%; }
+pre { background-color:#eee; padding:0.5em; }
